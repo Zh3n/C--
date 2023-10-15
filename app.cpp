@@ -6,3 +6,8 @@ int main() {
   return 0;
 } 
 
+int main() {
+  cout << "Hello World! 2";
+  return 0;
+} 
+
